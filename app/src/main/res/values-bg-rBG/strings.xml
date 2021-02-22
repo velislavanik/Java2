@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="order">кафе</string>
+    <string name="price">цена</string>
+    <string name="_5">лв</string>
+    <string name="toppings">крем</string>
+    <string name="coffee_price">кафе</string>
+    <string name="chocolate_topping_price">шоколад</string>
+    <string name="whipe_topping_price">сметана</string>
+    <string name="next">бр.</string>
+    <string name="quantity">k</string>
+    <string name="whipped_cream">w</string>
+    <string name="coffee">k</string>
+</resources>
